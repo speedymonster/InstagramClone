@@ -27,7 +27,7 @@
     <img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Instagram Clone</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
